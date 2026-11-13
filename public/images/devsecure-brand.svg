@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img">
+  <defs>
+    <linearGradient id="shield" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#51ddb0" stop-opacity=".25"/><stop offset="1" stop-color="#70a7ff" stop-opacity=".08"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#3b82f6" stop-opacity=".26"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <circle cx="335" cy="211" r="196" fill="url(#halo)"/>
+  <g fill="none" stroke="#8ab6d0" stroke-opacity=".35" stroke-width="1">
+    <path d="M52 218h137m262 0h137M320 28v64m0 238v72"/>
+    <circle cx="320" cy="218" r="166"/><circle cx="320" cy="218" r="136" stroke-dasharray="3 8"/>
+    <path d="M82 144h70v-51h56m260 249h-70v51h-56M83 290h50v44h54m320-232h-50V58h-54"/>
+  </g>
+  <g fill="#51ddb0"><circle cx="188" cy="93" r="4"/><circle cx="467" cy="341" r="4"/><circle cx="133" cy="290" r="4"/><circle cx="507" cy="122" r="4"/></g>
+  <path d="M320 108 416 144v76c0 78-42 119-96 149-54-30-96-71-96-149v-76z" fill="url(#shield)" stroke="#82ddc3" stroke-opacity=".78" stroke-width="2"/>
+  <path d="M320 133 392 160v59c0 57-29 89-72 115-43-26-72-58-72-115v-59z" fill="#121a28" stroke="#70a7ff" stroke-opacity=".48"/>
+  <path d="M284 214h23l14-26 20 57 16-31h20" fill="none" stroke="#51ddb0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="320" y="386" text-anchor="middle" fill="#eff8ff" font-family="monospace" font-size="15" letter-spacing="5">DEVSECURE</text>
+</svg>
